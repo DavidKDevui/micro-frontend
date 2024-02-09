@@ -1,0 +1,19 @@
+.custom-component {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .custom-component h2 {
+    color: #333;
+  }
+  
+  .custom-component h3 {
+    color: #666;
+  }
+  
+  .custom-component p {
+    color: #444;
+  }
+  
